@@ -2,7 +2,7 @@
 
 **Space crush** is an awesome game to let you travel in spaces and kill monster's spaceship to protect our homeland.
 
-Time spent: **120** hours spent in total
+Time spent: **80** hours spent in total
 
 Date created: May 2016
 
@@ -19,7 +19,7 @@ Dự kiến Space Crush sẽ có 1 chế độ chơi với nhiều màn chơi kh
 
 Here's a link to the release file for anyone want to test.
 
-![Release file for BetaTest](https://www.mediafire.com/?x9ve6f9iqfszeih)
+https://www.mediafire.com/?x9ve6f9iqfszeih
 
 ## Notes
 
