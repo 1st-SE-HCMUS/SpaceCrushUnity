@@ -1,0 +1,7 @@
+<i>
+  <i image="info_0.png" delay="100" x="4" y="-28"/>
+  <i image="info_1.png" delay="100" x="4" y="-28"/>
+  <i image="bullet_0.png" delay="100" x="-17" y="-7"/>
+  <i image="bullet_1.png" delay="100" x="-17" y="-7"/>
+  <i image="bullet_2.png" delay="100" x="-17" y="-7"/>
+</i>

@@ -1,0 +1,17 @@
+<i>
+  <i image="info_0.png" delay="100" x="0" y="-31"/>
+  <i image="info_1.png" delay="100" x="0" y="-31"/>
+  <i image="bullet_0.png" delay="100" x="-24" y="-5"/>
+  <i image="bullet_1.png" delay="100" x="-24" y="-5"/>
+  <i image="hit_0.png" delay="90" x="-53" y="-123"/>
+  <i image="hit_1.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_2.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_3.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_4.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_5.png" delay="90" x="-53" y="-123"/>
+  <i image="hit_6.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_7.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_8.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_9.png" delay="100" x="-53" y="-123"/>
+  <i image="hit_10.png" delay="90" x="-53" y="-123"/>
+</i>

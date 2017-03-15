@@ -1,0 +1,13 @@
+<i>
+  <i image="info_0.png" delay="100" x="3" y="-31"/>
+  <i image="info_1.png" delay="100" x="3" y="-31"/>
+  <i image="bullet_0.png" delay="100" x="-10" y="-10"/>
+  <i image="bullet_1.png" delay="100" x="-10" y="-10"/>
+  <i image="bullet_2.png" delay="100" x="-10" y="-10"/>
+  <i image="hit_0.png" delay="90" x="-16" y="-30"/>
+  <i image="hit_1.png" delay="90" x="-16" y="-30"/>
+  <i image="hit_2.png" delay="90" x="-16" y="-30"/>
+  <i image="hit_3.png" delay="90" x="-16" y="-30"/>
+  <i image="hit_4.png" delay="90" x="-16" y="-30"/>
+  <i image="hit_5.png" delay="100" x="-16" y="-30"/>
+</i>

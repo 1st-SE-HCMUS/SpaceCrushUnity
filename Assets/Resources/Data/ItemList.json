@@ -1,0 +1,75 @@
+{
+	"shopItem": [ {
+		"ID": 1,
+		"NameInShop": "Fighter mark I",
+		"Description": "A popular ship type with two barrel, very fast and powerfull\nHealth: 250\nSpeed: 50\nFire rate: 3.3/sec",
+		"Price": 0.0,
+		"ImagePath": "Image/Ship/Fighter I",
+		"Type": 3,
+		"ProgrammingName": "Player Ship 0",
+		"SpecificSound": ""
+	},
+	{
+		"ID": 1,
+		"NameInShop": "Destroyer",
+		"Description": "A popular ship type, one barrel, high endurance\nHealth: 400\nSpeed: 40\nFire rate: 5/sec",
+		"Price": 12000.0,
+		"ImagePath": "Image/Ship/player1_blue",
+		"Type": 3,
+		"ProgrammingName": "Player Ship 1",
+		"SpecificSound": ""
+	},
+	{
+		"ID": 1,
+		"NameInShop": "Normal bullet",
+		"Description": "Normal bullet\nDamage: 10",
+		"Price": 0.0,
+		"ImagePath": "Image/Bullet/0/info_0",
+		"Type": 2,
+		"ProgrammingName": "Bullet 0",
+		"SpecificSound": ""
+	},
+	{
+		"ID": 1,
+		"NameInShop": "Mysterious kunai",
+		"Description": "An ancient weapon\nDamage: 20",
+		"Price": 2200.0,
+		"ImagePath": "Image/Bullet/1/info_0",
+		"Type": 2,
+		"ProgrammingName": "Bullet 1",
+		"SpecificSound": ""
+	}, {
+		"ID": 2,
+		"NameInShop": "Water Balloon",
+		"Description": "Water Balloon\nDamage: 30",
+		"Price": 4300.0,
+		"ImagePath": "Image/Bullet/3/info_0",
+		"Type": 2,
+		"ProgrammingName": "Bullet 3",
+		"SpecificSound": ""
+	},
+	{
+		"ID": 1,
+		"NameInShop": "Mysterious bullet",
+		"Description": "A mysterious weapon\nDamage: 40",
+		"Price": 9200.0,
+		"ImagePath": "Image/Bullet/2/effect_0",
+		"Type": 2,
+		"ProgrammingName": "Bullet 2",
+		"SpecificSound": ""
+	},
+	
+	{
+		"ID": 0,
+		"NameInShop": "Fire rate upgrade (x1.5)",
+		"Description": "Improve your gun's fire rate (x1.5)",
+		"Price": 2200.0,
+		"ImagePath": "Image/shop/1",
+		"Type": 1,
+		"ProgrammingName": "atk speed boost (x1.5)",
+		"SpecificSound": ""
+
+	}
+	],
+	"whilePlayingItem": []
+}

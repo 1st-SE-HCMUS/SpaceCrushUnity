@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: e460ad13fa814f84faaab5a8ac9045cd
+timeCreated: 1466516712
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shield 2 sheet_0
+    21300002: Shield 2 sheet_1
+    21300004: Shield 2 sheet_2
+    21300006: Shield 2 sheet_3
+    21300008: Shield 2 sheet_4
+    21300010: Shield 2 sheet_5
+    21300012: Shield 2 sheet_6
+    21300014: Shield 2 sheet_7
+    21300016: Shield 2 sheet_8
+    21300018: Shield 2 sheet_9
+    21300020: Shield 2 sheet_10
+    21300022: Shield 2 sheet_11
+    21300024: Shield 2 sheet_12
+    21300026: Shield 2 sheet_13
+    21300028: Shield 2 sheet_14
+    21300030: Shield 2 sheet_15
+    21300032: Shield 2 sheet_16
+    21300034: Shield 2 sheet_17
+    21300036: Shield 2 sheet_18
+    21300038: Shield 2 sheet_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shield 2 sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -34}
+        - {x: -41, y: -58}
+        - {x: -28, y: -74}
+        - {x: 23, y: -74}
+        - {x: 41, y: -59}
+        - {x: 41, y: -38}
+        - {x: 31, y: -34}
+    - name: Shield 2 sheet_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 606
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -74}
+        - {x: 18, y: -74}
+        - {x: 54, y: -62}
+        - {x: 54, y: -18}
+        - {x: -52, y: -18}
+        - {x: -54, y: -19}
+        - {x: -54, y: -52}
+    - name: Shield 2 sheet_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 606
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -3}
+        - {x: -63, y: -45}
+        - {x: -15, y: -74}
+        - {x: 29, y: -74}
+        - {x: 54, y: -67}
+        - {x: 63, y: -54}
+        - {x: 63, y: -3}
+    - name: Shield 2 sheet_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 606
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 12}
+        - {x: -68, y: 9}
+        - {x: -68, y: -41}
+        - {x: -38, y: -62}
+        - {x: -17, y: -74}
+        - {x: 17, y: -74}
+        - {x: 69, y: -51}
+        - {x: 69, y: 3}
+        - {x: 63, y: 12}
+    - name: Shield 2 sheet_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 606
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -74}
+        - {x: 42, y: -74}
+        - {x: 71, y: -45}
+        - {x: 71, y: 24}
+        - {x: -71, y: 24}
+        - {x: -71, y: -50}
+    - name: Shield 2 sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 35}
+        - {x: 25, y: 33}
+        - {x: 6, y: 35}
+        - {x: -49, y: 35}
+        - {x: -66, y: 32}
+        - {x: -71, y: 24}
+        - {x: -71, y: -42}
+        - {x: -18, y: -74}
+        - {x: 17, y: -74}
+        - {x: 66, y: -48}
+        - {x: 72, y: -25}
+        - {x: 72, y: 32}
+        - {x: 62, y: 35}
+    - name: Shield 2 sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 45}
+        - {x: -71, y: -65}
+        - {x: -48, y: -74}
+        - {x: 61, y: -74}
+        - {x: 72, y: -56}
+        - {x: 72, y: 37}
+        - {x: 70, y: 45}
+    - name: Shield 2 sheet_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 414
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 54}
+        - {x: -71, y: -51}
+        - {x: -67, y: -64}
+        - {x: -46, y: -74}
+        - {x: 28, y: -74}
+        - {x: 72, y: -42}
+        - {x: 72, y: 45}
+        - {x: 57, y: 54}
+    - name: Shield 2 sheet_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 414
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 62}
+        - {x: -71, y: -40}
+        - {x: -34, y: -74}
+        - {x: 35, y: -74}
+        - {x: 66, y: -49}
+        - {x: 72, y: -33}
+        - {x: 72, y: 54}
+        - {x: 66, y: 62}
+    - name: Shield 2 sheet_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 414
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 68}
+        - {x: -71, y: 44}
+        - {x: -71, y: -71}
+        - {x: 71, y: -71}
+        - {x: 72, y: -70}
+        - {x: 72, y: 38}
+        - {x: 65, y: 68}
+    - name: Shield 2 sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 73}
+        - {x: -71, y: 61}
+        - {x: -71, y: -47}
+        - {x: -43, y: -68}
+        - {x: 37, y: -68}
+        - {x: 72, y: -60}
+        - {x: 72, y: 73}
+    - name: Shield 2 sheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 222
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 71}
+        - {x: 57, y: 73}
+        - {x: -52, y: 73}
+        - {x: -71, y: 60}
+        - {x: -71, y: -53}
+        - {x: -69, y: -63}
+        - {x: 45, y: -63}
+        - {x: 53, y: -55}
+        - {x: 72, y: -32}
+        - {x: 72, y: 57}
+    - name: Shield 2 sheet_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 222
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 73}
+        - {x: -71, y: 54}
+        - {x: -71, y: -45}
+        - {x: -69, y: -57}
+        - {x: 38, y: -57}
+        - {x: 72, y: -49}
+        - {x: 72, y: 55}
+        - {x: 58, y: 73}
+    - name: Shield 2 sheet_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 222
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 73}
+        - {x: -71, y: 60}
+        - {x: -71, y: -48}
+        - {x: -70, y: -50}
+        - {x: 53, y: -50}
+        - {x: 72, y: -29}
+        - {x: 72, y: 58}
+        - {x: 57, y: 73}
+    - name: Shield 2 sheet_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 222
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: -41}
+        - {x: 42, y: -41}
+        - {x: 72, y: -27}
+        - {x: 72, y: 65}
+        - {x: 71, y: 73}
+        - {x: -71, y: 73}
+        - {x: -71, y: -35}
+    - name: Shield 2 sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 73}
+        - {x: -71, y: -22}
+        - {x: -42, y: -30}
+        - {x: 53, y: -30}
+        - {x: 72, y: -16}
+        - {x: 72, y: 67}
+        - {x: 54, y: 73}
+    - name: Shield 2 sheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 73}
+        - {x: -56, y: 73}
+        - {x: -70, y: 69}
+        - {x: -70, y: 2}
+        - {x: -57, y: -18}
+        - {x: 63, y: -18}
+        - {x: 70, y: -12}
+        - {x: 70, y: 43}
+        - {x: 65, y: 65}
+    - name: Shield 2 sheet_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 30
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 73}
+        - {x: -66, y: 56}
+        - {x: -66, y: 16}
+        - {x: -62, y: 6}
+        - {x: -40, y: -4}
+        - {x: 35, y: -4}
+        - {x: 66, y: 4}
+        - {x: 66, y: 73}
+    - name: Shield 2 sheet_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 30
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 73}
+        - {x: -59, y: 54}
+        - {x: -59, y: 22}
+        - {x: -41, y: 12}
+        - {x: 52, y: 12}
+        - {x: 57, y: 13}
+        - {x: 59, y: 23}
+        - {x: 59, y: 67}
+        - {x: 56, y: 73}
+    - name: Shield 2 sheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 30
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 73}
+        - {x: -47, y: 69}
+        - {x: -47, y: 29}
+        - {x: 44, y: 29}
+        - {x: 48, y: 45}
+        - {x: 48, y: 64}
+        - {x: 39, y: 73}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

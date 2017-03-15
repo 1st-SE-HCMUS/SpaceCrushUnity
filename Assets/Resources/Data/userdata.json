@@ -1,0 +1,122 @@
+{
+  "id": 0,
+  "name": "",
+  "highscore": [
+    5200,
+    5050,
+    2950,
+    1650,
+    1510,
+    1450,
+    850,
+    750,
+    550,
+    450
+  ],
+  "inventory": {
+    "gold": 9917060,
+    "ship": [
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 0",
+      "Player Ship 1"
+    ],
+    "bullet": [
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 0",
+        "sound": null
+      },
+      {
+        "name": "Bullet 3",
+        "sound": null
+      }
+    ],
+    "item": []
+  },
+  "equiped": {
+    "ship": "Player Ship 1",
+    "bullet": {
+      "name": "Bullet 3",
+      "sound": null
+    },
+    "item": []
+  }
+}
